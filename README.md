@@ -55,19 +55,17 @@
 ### ⚙️ GitHub Stats
 
 <p align="center">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakil880&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakil880&show_icons=true&theme=react&hide_border=true" alt="Ehesan's GitHub Stats" />
 </p>
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=shakil880&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakil880&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakil880&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
