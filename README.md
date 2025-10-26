@@ -53,6 +53,8 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakil880&show_icons=true&theme=react&hide_border=true" alt="Ehesan's GitHub Stats" />
+</p>
+<p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=shakil880&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -66,8 +68,8 @@
 
 | Project | Description | Live Demo | Repo |
 |----------|-------------|-----------|------|
-| 🏃‍♂️ **Marathon Management System** | Full-stack MERN app for event organization and participant management | [Live](https://zippy-starburst-d69e91.netlify.app/) | [Repo](https://github.com/shakil880/marathon-management) |
-| 🏠 **Real Estate Platform** | Multi-role property marketplace with secure authentication | [Live](#) | [Repo](#) |
+| 🏃‍♂️ **Marathon Management System** | Full-stack MERN app for event organization and participant management | [Live](https://b11a11-assignment-category-06-client.netlify.app/) | [Repo](https://github.com/shakil880/b11a11-assignment-category-06-Client) |
+| 🏠 **Real Estate Platform** | Multi-role property marketplace with secure authentication | [Live](https://b11a12elite.netlify.app/) | [Repo](https://github.com/shakil880/B11_Assignment_12_category_008_client) |
 
 ---
 
