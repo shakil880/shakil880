@@ -1,6 +1,7 @@
+
 <h1 align="center">👋 Hi, I'm Ehesan!</h1>
 
-<h3 align="center">💻 MERN Stack & Django Developer | Building Clean, Scalable, and Impactful Web Apps</h3>
+<h3 align="center">💻 Frontend Developer | Aspiring MERN Stack Developer | Building Clean, Scalable, and Impactful Web Apps</h3>
 
 ---
 
@@ -8,7 +9,7 @@
 
 - 🎯 **Focused on:** Frontend Development, REST APIs, and Scalable Web Architecture  
 - 👨‍💻 Check out my projects: [My Portfolio](https://zippy-starburst-d69e91.netlify.app/)  
-- 📚 Currently mastering **Express.js** and building full-stack CRUD apps  
+- 📚 Currently mastering **Express.js** and building full-stack apps  
 - 💬 Ask me about **React, Django, JavaScript, MongoDB, and Python**  
 - 📫 Reach me at: **shakil880@gmail.com**  
 - 🌍 Based in Dhaka, Bangladesh  
