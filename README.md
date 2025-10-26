@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Ehesan!</h1>
+
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://zippy-starburst-d69e91.netlify.app/](https://zippy-starburst-d69e91.netlify.app/)
+- 👨‍💻 My projects are available at <a href="https://zippy-starburst-d69e91.netlify.app/](https://zippy-starburst-d69e91.netlify.app/">My Portfolio<a/>
 
-- 📫 How to reach me **shakil880@gmail.com**
+- 📫 You can reach me **shakil880@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
