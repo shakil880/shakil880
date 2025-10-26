@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 👨‍💻 My projects are available at <a href="https://zippy-starburst-d69e91.netlify.app/](https://zippy-starburst-d69e91.netlify.app/">My Portfolio<a/>
+- 👨‍💻 My projects are available at <a href="https://zippy-starburst-d69e91.netlify.app/">My Portfolio<a/>
 
 - 📫 You can reach me **shakil880@gmail.com**
 
