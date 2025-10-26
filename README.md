@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ehesan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Ehesan!</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakil880" alt="shakil880" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://zippy-starburst-d69e91.netlify.app/](https://zippy-starburst-d69e91.netlify.app/)
 
