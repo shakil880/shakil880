@@ -12,8 +12,7 @@
 - 🎯 **Focused on:** Frontend Development, REST APIs, and Scalable Web Architecture  
 - 👨‍💻 Check out my projects: [My Portfolio](https://zippy-starburst-d69e91.netlify.app/)  
 - 📚 Currently mastering **Express.js** and building full-stack apps  
-- 💬 Ask me about **React, Django, JavaScript, MongoDB, and Python**  
-- 📫 Reach me at: **shakil880@gmail.com**  
+- 💬 Ask me about **React, Express, JavaScript, MongoDB, and Python**
 - 🌍 Based in Dhaka, Bangladesh  
 
 ---
