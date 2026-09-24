@@ -9,10 +9,10 @@
 
 ### 🚀 About Me
 
-- 🎯 **Focused on:** Frontend Development, REST APIs, and Scalable Web Architecture  
+- 🎯 **Focused on:** Full-stack Development, REST APIs, and Scalable Web Architecture  
 - 👨‍💻 Check out my projects: [My Portfolio](https://zippy-starburst-d69e91.netlify.app/)  
-- 📚 Currently mastering **Express.js** and building full-stack apps  
-- 💬 Ask me about **React, Express, JavaScript, MongoDB, and Python**
+- 📚 Currently mastering **Next.js** and building full-stack apps  
+- 💬 Ask me about **React, JavaScript, MongoDB, PostgreSQL, and Python**
 - 🌍 Based in Dhaka, Bangladesh  
 
 ---
