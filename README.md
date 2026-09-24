@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Ehesan!</h1>
 
-<h3 align="center">💻 Frontend Developer | Aspiring MERN Stack Developer | Building Clean, Scalable, and Impactful Web Apps</h3>
+<h3 align="center">💻 Next.js Developer | Building Clean, Scalable, and Impactful Web Apps</h3>
 
 ---
 
